@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "electricity-law-2024"
+   ],
+   "sha256": "a8d3cf917ab848d57fcdcf8e1b5f6c5cfb0d7544df37bf93cfc0519d3dfc365f"
+  }
+ },
+ "schema": 1
+}
