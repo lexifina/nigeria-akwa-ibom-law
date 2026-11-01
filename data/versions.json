@@ -1,0 +1,19 @@
+{
+ "country": "NG-AK",
+ "acts": [
+  {
+   "slug": "electricity-law-2024",
+   "short": "Electricity Law",
+   "title": "Akwa Ibom State Electricity Law (No. 12 of 2024)",
+   "url": "https://akwaibomstate.gov.ng/wp-content/uploads/Akwa-Ibom-State-Electricity-Law-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 75,
+     "source_url": "https://akwaibomstate.gov.ng/wp-content/uploads/Akwa-Ibom-State-Electricity-Law-2025.pdf",
+     "sha256": "4c13e3c02a8ef6803e3cdb2673cc70a6f78cf0c8be0e9b118de1590132f7583f"
+    }
+   ]
+  }
+ ]
+}
